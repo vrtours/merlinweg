@@ -21,8 +21,8 @@
       <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot id="Point01" target="$fwd" url="{node5}" skinid="ht_node" title="Entrance" pan="-9.97416" tilt="0" description=""/>
       <hotspot id="Point02" target="$fwd" url="{node7}" skinid="ht_node" title="Study" pan="-2.32512" tilt="0" description=""/>
-      <hotspot id="Point03" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_01_HR.png" skinid="ht_image" title="" pan="-68.42" tilt="-1.41" description=""/>
-      <hotspot id="Point04" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_02_HR.png" skinid="ht_image" title="" pan="-60.9" tilt="-6.81" description=""/>
+      <hotspot id="Point03" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_01_HR.jpg" skinid="ht_image" title="" pan="-68.42" tilt="-1.41" description=""/>
+      <hotspot id="Point04" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_02_HR.jpg" skinid="ht_image" title="" pan="-60.9" tilt="-6.81" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2"/>
@@ -52,7 +52,7 @@
       <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot id="Point01" target="$fwd" url="{node3}" skinid="ht_node" title="Patio" pan="18.333" tilt="0" description=""/>
       <hotspot id="Point02" target="" url="{node8}" skinid="ht_node" title="Bedroom" pan="-354.17" tilt="14.24" description=""/>
-      <hotspot id="Point03" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_03_HR.png" skinid="ht_image" title="" pan="-8.18" tilt="-18.89" description=""/>
+      <hotspot id="Point03" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_03_HR.jpg" skinid="ht_image" title="" pan="-8.18" tilt="-18.89" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2"/>
@@ -85,7 +85,7 @@
       <hotspot id="Point03" target="$fwd" url="{node6}" skinid="ht_node" title="Lounge" pan="-56.6656" tilt="0" description=""/>
       <hotspot id="Point04" target="$fwd" url="{node2}" skinid="ht_node" title="Garden" pan="-101.667" tilt="0" description=""/>
       <hotspot id="Point05" target="" url="{node8}" skinid="ht_node" title="Bedroom" pan="-44.87" tilt="21.31" description=""/>
-      <hotspot id="Point06" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_04_HR.png" skinid="ht_image" title="" pan="-356.31" tilt="-25.89" description=""/>
+      <hotspot id="Point06" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_04_HR.jpg" skinid="ht_image" title="" pan="-356.31" tilt="-25.89" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2"/>
@@ -116,7 +116,7 @@
       <hotspot id="Point01" target="$fwd" url="{node5}" skinid="ht_node" title="Entrance" pan="35.2316" tilt="0" description=""/>
       <hotspot id="Point02" target="$fwd" url="{node3}" skinid="ht_node" title="Patio" pan="152.306" tilt="0" description=""/>
       <hotspot id="Point03" target="$fwd" url="{node6}" skinid="ht_node" title="Lounge" pan="-90" tilt="0" description=""/>
-      <hotspot id="Point04" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_01_HR.png" skinid="ht_image" title="" pan="-7.62" tilt="-15.74" description=""/>
+      <hotspot id="Point04" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_01_HR.jpg" skinid="ht_image" title="" pan="-7.62" tilt="-15.74" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2"/>
@@ -150,7 +150,7 @@
       <hotspot id="Point04" target="$fwd" url="{node3}" skinid="ht_node" title="Patio" pan="359.549" tilt="0" description=""/>
       <hotspot id="Point05" target="$fwd" url="{node7}" skinid="ht_node" title="Study" pan="103.365" tilt="0" description=""/>
       <hotspot id="Bedroom" target="" url="{node8}" skinid="ht_node" title="Bedroom" pan="-272.22" tilt="27.23" description=""/>
-      <hotspot id="Point06" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_02_HR.png" skinid="ht_image" title="" pan="-46.74" tilt="-8.31" description=""/>
+      <hotspot id="Point06" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_02_HR.jpg" skinid="ht_image" title="" pan="-46.74" tilt="-8.31" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2"/>
@@ -181,8 +181,8 @@
       <hotspot id="Point01" target="$fwd" url="{node5}" skinid="ht_node" title="Entrance" pan="64.3366" tilt="0" description=""/>
       <hotspot id="Point02" target="$fwd" url="{node3}" skinid="ht_node" title="Patio" pan="123.334" tilt="0" description=""/>
       <hotspot id="Point03" target="$fwd" url="{node4}" skinid="ht_node" title="Kitchen" pan="90" tilt="0" description=""/>
-      <hotspot id="Point04" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_03_HR.png" skinid="ht_image" title="" pan="-102.94" tilt="-31.74" description=""/>
-      <hotspot id="Point05" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_04_HR.png" skinid="ht_image" title="" pan="-0.65" tilt="-15.79" description=""/>
+      <hotspot id="Point04" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_03_HR.jpg" skinid="ht_image" title="" pan="-102.94" tilt="-31.74" description=""/>
+      <hotspot id="Point05" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_04_HR.jpg" skinid="ht_image" title="" pan="-0.65" tilt="-15.79" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2"/>
@@ -212,7 +212,7 @@
       <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot id="Point01" target="$fwd" url="{node1}" skinid="ht_node" title="Arrival" pan="87.6749" tilt="0" description=""/>
       <hotspot id="Point02" target="$fwd" url="{node5}" skinid="ht_node" title="Entrance" pan="103.365" tilt="0" description=""/>
-      <hotspot id="Point03" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_05_HR.png" skinid="ht_image" title="" pan="-348.45" tilt="-22.95" description=""/>
+      <hotspot id="Point03" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_05_HR.jpg" skinid="ht_image" title="" pan="-348.45" tilt="-22.95" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2"/>
@@ -243,8 +243,8 @@
       <hotspot id="Point01" target="" url="{node3}" skinid="ht_node" title="Patio" pan="-176.65" tilt="-12" description=""/>
       <hotspot id="Point02" target="" url="{node2}" skinid="ht_node" title="Garden" pan="-65.58" tilt="-16.34" description=""/>
       <hotspot id="Point03" target="" url="{node5}" skinid="ht_node" title="Entrance" pan="-262.48" tilt="-21.23" description=""/>
-      <hotspot id="Point04" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_06_HR.png" skinid="ht_image" title="" pan="-19.03" tilt="-19.96" description=""/>
-      <hotspot id="Point05" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_07_HR.png" skinid="ht_image" title="" pan="-1.06" tilt="-4.35" description=""/>
+      <hotspot id="Point04" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_06_HR.jpg" skinid="ht_image" title="" pan="-19.09" tilt="-19.81" description=""/>
+      <hotspot id="Point05" target="" url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_07_HR.jpg" skinid="ht_image" title="" pan="-1.06" tilt="-4.35" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomfov="20" enabled="1" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomspeed="2"/>
