@@ -13,14 +13,14 @@
       <min fov="30" pan="-92.21" tilt="-90"/>
       <max fov="80" fovstereographic="270" scaletofit="1" pan="32.05" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata author="" heading="90" info="" nodeid="node1" latitude="" title="Arrival" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
+    <userdata author="" heading="90" info="" nodeid="node1" latitude="" title="Vordereingang" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan01" y_floorplan_percent="26.7576" y="-0.350189" x="0.0357056" x_floorplan_percent="1.93022"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label wordwrap="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" border="1" background="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="$fwd" title="Entrance" pan="-9.97416" tilt="0" description=""/>
-      <hotspot url="{node7}" skinid="ht_node" id="Point02" target="$fwd" title="Study" pan="-2.32512" tilt="0" description=""/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="$fwd" title="Eingang" pan="-9.97416" tilt="0" description=""/>
+      <hotspot url="{node7}" skinid="ht_node" id="Point02" target="$fwd" title="Studie" pan="-2.32512" tilt="0" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_01_HR.jpg" skinid="ht_image" id="Point03" target="" title="" pan="-68.42" tilt="-1.41" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_02_HR.jpg" skinid="ht_image" id="Point04" target="" title="" pan="-60.9" tilt="-6.81" description=""/>
     </hotspots>
@@ -44,16 +44,16 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata author="" heading="-60" info="" nodeid="node2" latitude="" title="Garden" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
+    <userdata author="" heading="-60" info="" nodeid="node2" latitude="" title="Garten" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan01" y_floorplan_percent="92.1301" y="-1.20575" x="1.75919" x_floorplan_percent="95.1002"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label wordwrap="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" border="1" background="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node3}" skinid="ht_node" id="Point01" target="$fwd" title="Patio" pan="18.333" tilt="0" description=""/>
-      <hotspot url="{node8}" skinid="ht_node" id="Point02" target="" title="Bedroom" pan="-354.17" tilt="14.24" description=""/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point01" target="$fwd" title="Terrasse" pan="18.333" tilt="0" description=""/>
+      <hotspot url="{node8}" skinid="ht_node" id="Point02" target="" title="Schlafzimmer" pan="-354.17" tilt="14.24" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_03_HR.jpg" skinid="ht_image" id="Point03" target="" title="" pan="-8.18" tilt="-18.89" description=""/>
-      <hotspot url="{node6}" skinid="ht_node" id="Point04" target="$fwd" title="Lounge" pan="-16.5482" tilt="0" description=""/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point04" target="$fwd" title="Wohnzimmer" pan="-16.5482" tilt="0" description=""/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomout="0" enabled="1" softedge="0" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="1" zoomin="0" blendcolor="0x000000"/>
@@ -75,17 +75,17 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata author="" heading="0" info="" nodeid="node3" latitude="" title="Patio" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
+    <userdata author="" heading="0" info="" nodeid="node3" latitude="" title="Terrasse" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan01" y_floorplan_percent="77.4397" y="-1.01349" x="0.828094" x_floorplan_percent="44.7661"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label wordwrap="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" border="1" background="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="$fwd" title="Entrance" pan="-0.451139" tilt="0" description=""/>
-      <hotspot url="{node4}" skinid="ht_node" id="Point02" target="$fwd" title="Kitchen" pan="-27.6944" tilt="0" description=""/>
-      <hotspot url="{node6}" skinid="ht_node" id="Point03" target="$fwd" title="Lounge" pan="-56.6656" tilt="0" description=""/>
-      <hotspot url="{node2}" skinid="ht_node" id="Point04" target="$bwd" title="Garden" pan="-101.67" tilt="0" description=""/>
-      <hotspot url="{node8}" skinid="ht_node" id="Point05" target="" title="Bedroom" pan="-44.87" tilt="21.31" description=""/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="$fwd" title="Eingang" pan="-0.451139" tilt="0" description=""/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point02" target="$fwd" title="Küche" pan="-27.6944" tilt="0" description=""/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point03" target="$fwd" title="Wohnzimmer" pan="-56.6656" tilt="0" description=""/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point04" target="$bwd" title="Garten" pan="-101.67" tilt="0" description=""/>
+      <hotspot url="{node8}" skinid="ht_node" id="Point05" target="" title="Schlafzimmer" pan="-44.87" tilt="21.31" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Ext_Render_04_HR.jpg" skinid="ht_image" id="Point06" target="" title="" pan="-356.31" tilt="-25.89" description=""/>
     </hotspots>
     <media/>
@@ -108,15 +108,15 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata author="" heading="0" info="" nodeid="node4" latitude="" title="Kitchen" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
+    <userdata author="" heading="0" info="" nodeid="node4" latitude="" title="Küche" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan01" y_floorplan_percent="54.2497" y="-0.709991" x="0.987396" x_floorplan_percent="53.3779"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label wordwrap="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" border="1" background="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="$fwd" title="Entrance" pan="35.2316" tilt="0" description=""/>
-      <hotspot url="{node3}" skinid="ht_node" id="Point02" target="-6.6/-0.8/70.0" title="Patio" pan="152.31" tilt="0" description=""/>
-      <hotspot url="{node6}" skinid="ht_node" id="Point03" target="$bwd" title="Lounge" pan="-90" tilt="0" description=""/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="$fwd" title="Eingang" pan="35.2316" tilt="0" description=""/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point02" target="-6.6/-0.8/70.0" title="Terrasse" pan="152.31" tilt="0" description=""/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point03" target="$bwd" title="Wohnzimmer" pan="-90" tilt="0" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_01_HR.jpg" skinid="ht_image" id="Point04" target="" title="" pan="-7.62" tilt="-15.74" description=""/>
     </hotspots>
     <media/>
@@ -139,18 +139,18 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata author="" heading="180" info="" nodeid="node5" latitude="" title="Entrance" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
+    <userdata author="" heading="180" info="" nodeid="node5" latitude="" title="Eingang" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan01" y_floorplan_percent="37.4607" y="-0.490265" x="0.832214" x_floorplan_percent="44.9889"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label wordwrap="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" border="1" background="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node1}" skinid="ht_node" id="Point01" target="$bwd" title="Arrival" pan="260.03" tilt="0" description=""/>
-      <hotspot url="{node4}" skinid="ht_node" id="Point02" target="$fwd" title="Kitchen" pan="35.2316" tilt="0" description=""/>
-      <hotspot url="{node6}" skinid="ht_node" id="Point03" target="$fwd" title="Lounge" pan="64.3366" tilt="0" description=""/>
-      <hotspot url="{node3}" skinid="ht_node" id="Point04" target="$bwd" title="Patio" pan="359.55" tilt="0" description=""/>
-      <hotspot url="{node7}" skinid="ht_node" id="Point05" target="$fwd" title="Study" pan="103.365" tilt="0" description=""/>
-      <hotspot url="{node8}" skinid="ht_node" id="Bedroom" target="" title="Bedroom" pan="-272.22" tilt="27.23" description=""/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point01" target="$bwd" title="Vordereingang" pan="260.03" tilt="0" description=""/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point02" target="$fwd" title="Küche" pan="35.2316" tilt="0" description=""/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point03" target="$fwd" title="Wohnzimmer" pan="64.3366" tilt="0" description=""/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point04" target="$bwd" title="Terrasse" pan="359.55" tilt="0" description=""/>
+      <hotspot url="{node7}" skinid="ht_node" id="Point05" target="$fwd" title="Studie" pan="103.365" tilt="0" description=""/>
+      <hotspot url="{node8}" skinid="ht_node" id="Bedroom" target="" title="Schlafzimmer" pan="-272.22" tilt="27.23" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_02_HR.jpg" skinid="ht_image" id="Point06" target="" title="" pan="-46.74" tilt="-8.31" description=""/>
     </hotspots>
     <media/>
@@ -173,18 +173,18 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata author="" heading="0" info="" nodeid="node6" latitude="" title="Lounge" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
+    <userdata author="" heading="0" info="" nodeid="node6" latitude="" title="Wohnzimmer" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan01" y_floorplan_percent="54.2497" y="-0.709991" x="1.28952" x_floorplan_percent="69.7105"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label wordwrap="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" border="1" background="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="$fwd" title="Entrance" pan="64.3366" tilt="0" description=""/>
-      <hotspot url="{node3}" skinid="ht_node" id="Point02" target="$bwd" title="Patio" pan="123.33" tilt="0" description=""/>
-      <hotspot url="{node4}" skinid="ht_node" id="Point03" target="$fwd" title="Kitchen" pan="90" tilt="0" description=""/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="$fwd" title="Eingang" pan="64.3366" tilt="0" description=""/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point02" target="$bwd" title="Terrasse" pan="123.33" tilt="0" description=""/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point03" target="$fwd" title="Küche" pan="90" tilt="0" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_03_HR.jpg" skinid="ht_image" id="Point04" target="" title="" pan="-102.94" tilt="-31.74" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_04_HR.jpg" skinid="ht_image" id="Point05" target="" title="" pan="-0.65" tilt="-15.79" description=""/>
-      <hotspot url="{node2}" skinid="ht_node" id="Point06" target="$bwd" title="Garden" pan="-136.55" tilt="0" description=""/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point06" target="$bwd" title="Garten" pan="-136.55" tilt="0" description=""/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomout="0" enabled="1" softedge="0" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="1" zoomin="0" blendcolor="0x000000"/>
@@ -206,14 +206,14 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata author="" heading="0" info="" nodeid="node7" latitude="" title="Study" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
+    <userdata author="" heading="0" info="" nodeid="node7" latitude="" title="Studie" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan01" y_floorplan_percent="30.4302" y="-0.398254" x="1.21948" x_floorplan_percent="65.9243"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label wordwrap="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" border="1" background="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node1}" skinid="ht_node" id="Point01" target="$bwd" title="Arrival" pan="87.67" tilt="0" description=""/>
-      <hotspot url="{node5}" skinid="ht_node" id="Point02" target="$fwd" title="Entrance" pan="103.365" tilt="0" description=""/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point01" target="$bwd" title="Vordereingang" pan="87.67" tilt="0" description=""/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point02" target="$fwd" title="Eingang" pan="103.365" tilt="0" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_05_HR.jpg" skinid="ht_image" id="Point03" target="" title="" pan="-348.45" tilt="-22.95" description=""/>
     </hotspots>
     <media/>
@@ -236,18 +236,18 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360"/>
     </view>
-    <userdata author="" heading="45" info="" nodeid="node8" latitude="" title="Bedroom" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
+    <userdata author="" heading="45" info="" nodeid="node8" latitude="" title="Schlafzimmer" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan02" y_floorplan_percent="64.4723" y="-0.847321" x="1.13571" x_floorplan_percent="61.2593"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label wordwrap="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" border="1" background="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node3}" skinid="ht_node" id="Point01" target="$bwd" title="Patio" pan="-176.65" tilt="-12" description=""/>
-      <hotspot url="{node2}" skinid="ht_node" id="Point02" target="$bwd" title="Garden" pan="-65.58" tilt="-16.34" description=""/>
-      <hotspot url="{node5}" skinid="ht_node" id="Point03" target="" title="Entrance" pan="-262.48" tilt="-21.23" description=""/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point01" target="$bwd" title="Terrasse" pan="-176.65" tilt="-12" description=""/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point02" target="$bwd" title="Garten" pan="-65.58" tilt="-16.34" description=""/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point03" target="" title="Eingang" pan="-262.48" tilt="-21.23" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_06_HR.jpg" skinid="ht_image" id="Point04" target="" title="" pan="-19.09" tilt="-19.81" description=""/>
       <hotspot url="images/2020_09_25_DE_MU_Merlinweg3_Int_Render_07_HR.jpg" skinid="ht_image" id="Point05" target="" title="" pan="-1.06" tilt="-4.35" description=""/>
-      <hotspot url="{node1}" skinid="ht_node" id="Point06" target="$bwd" title="Arrival" pan="-234.95" tilt="-4.05" description=""/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point06" target="$bwd" title="Vordereingang" pan="-234.95" tilt="-4.05" description=""/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomout="0" enabled="1" softedge="0" zoomfov="20" zoomspeed="2" blendtime="1" zoomoutpause="1" zoomin="0" blendcolor="0x000000"/>
