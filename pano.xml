@@ -10,8 +10,8 @@
     <view fovmode="0" pannorth="90">
       <start fov="70" pan="0" tilt="0" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fov="120" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fovfisheye="360"/>
+      <min fov="30" pan="-92.21" tilt="-90"/>
+      <max fov="80" fovstereographic="270" scaletofit="1" pan="32.05" tilt="90" fovfisheye="360"/>
     </view>
     <userdata author="" heading="90" info="" nodeid="node1" latitude="" title="Arrival" tags="01_360Renders" customnodeid="" comment="" description="" copyright="" longitude="" source="" datetime="">
       <mapcoords mapid="FloorPlan01" y_floorplan_percent="26.7576" y="-0.350189" x="0.0357056" x_floorplan_percent="1.93022"/>
